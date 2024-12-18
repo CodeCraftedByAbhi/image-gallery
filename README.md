@@ -15,7 +15,7 @@ Image Gallery is a dynamic and visually appealing web application built with **R
 
 ## 🚀 Live Demo
 
-🔗 [Live Project Link](#) *(Update this link after deployment)*
+🔗 Live at :- https://image-gallery-rho-snowy.vercel.app/
 
 ---
 
