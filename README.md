@@ -63,12 +63,6 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. Feel free to use and modify it as you like.
-
----
-
 ## 📬 Contact
 
 For any questions or suggestions, drop an email at **[codecraftedbyabhi@gmail.com](mailto:codecraftedbyabhi@gmail.com)**. Let's create something exceptional together! 🚀
