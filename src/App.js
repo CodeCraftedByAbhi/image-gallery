@@ -14,7 +14,6 @@ function App() {
       .then(res => res.json())
       .then(data => {
         setImages(data.hits);
-        console.log(data);
         setIsLoading(false);
       })
       .catch(err => console.log(err));
