@@ -21,7 +21,8 @@ Image Gallery is a dynamic and visually appealing web application built with **R
 
 ## 📷 Screenshots
 
-Add screenshots of the project here to showcase its features and interface.
+Added screenshots of the project here to showcase its features and interface.
+<img src="SS.png">
 
 ---
 
